@@ -2826,4 +2826,86 @@ module.exports = [
       }   
     ]
   },
+  { 
+    location: "서울특별시 중구 청계천로 86",
+    location1:{
+      levelOneDiv: "서울특별시",
+      levelTwoDiv: "중구",
+      place: "청계천로 86"
+  },
+
+    name: "한화빌딩",
+    url : "http://kko.to/rp0ZUvPjB",
+    flag : false,
+    call : "tel:02-3396-6215",
+    point:{
+      point:{
+        latitude: 37.5667927,
+        longitude: 126.9881659
+      }
+    },
+    info: [
+      {
+        title: '전화번호',
+        content: '02-3396-6215'
+      },
+      {
+        title: '총 보관대수',
+        content: '10'
+      },
+      {
+        title: '설치년도',
+        content: '2016'
+      },
+      {
+        title: '공기주입기비치여부',
+        content: '있음'
+      },
+      {
+        title: '관리기관명',
+        content: '서울특별시 중구청'
+      }   
+    ]
+  },
+
+  { 
+    location: "강원도 양구군 양구읍 관공서로 38",
+    location1:{
+      levelOneDiv: "강원도",
+      levelTwoDiv: "양구군",
+      place: "양구읍 관공서로 38"
+  },
+    name: "군청내",
+    url : "http://kko.to/d18SUvgjM",
+    flag : false,
+    call : "tel:033-480-2141",
+    point:{
+      point:{
+        latitude: 38.1099903,
+        longitude: 127.9900883
+      }
+    },
+    info: [
+      {
+        title: '전화번호',
+        content: '033-480-2141'
+      },
+      {
+        title: '총 보관대수',
+        content: '10'
+      },
+      {
+        title: '설치년도',
+        content: ''
+      },
+      {
+        title: '공기주입기비치여부',
+        content: '있음'
+      },
+      {
+        title: '관리기관명',
+        content: '양구군'
+      }   
+    ]
+  },
 ]
